@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+- 👋 I’m @baz44
+- 👀 I’m interested in functional programming
+- 🌱 I’m currently learning; Rust
+- 💞️ I’m looking to collaborate on; music notation software (for example https://github.com/musescore/MuseScore)
+- 📫 How to reach me @https://www.linkedin.com/in/baself/ on Linkedin
+
 <!--
-**baz44/baz44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
