@@ -2,8 +2,7 @@
 
 - 👋 I’m @baz44
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning; Rust
-- 📫 How to reach me @https://www.linkedin.com/in/baself/ on Linkedin
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/baself/)
 
 <!--
 - 🔭 I’m currently working on ...
