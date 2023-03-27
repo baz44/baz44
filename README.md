@@ -3,7 +3,6 @@
 - 👋 I’m @baz44
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning; Rust
-- 💞️ I’m looking to collaborate on; music notation software (for example https://github.com/musescore/MuseScore)
 - 📫 How to reach me @https://www.linkedin.com/in/baself/ on Linkedin
 
 <!--
